@@ -1409,3 +1409,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.10-03.44.30:771][562]LogSavePackage: Moving '../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Saved/Level2D5A0B517421D67B342F5C6A17F7E2BE8.tmp' to '../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Content/Level2.umap'
 [2021.03.10-03.44.30:833][562]AssetCheck: New page: Asset Save: Level2
 [2021.03.10-03.44.30:833][562]LogContentValidation: Display: Validating World /Game/Level2.Level2
+[2021.03.10-03.46.12:960][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.10-03.46.12:975][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.10-03.46.13:184][ 71]LogSavePackage: Moving '../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Saved/Level27563029B4F35EA3D98AD6181964DE7F2.tmp' to '../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Content/Level2.umap'
+[2021.03.10-03.46.13:234][ 71]AssetCheck: New page: Asset Save: Level2
+[2021.03.10-03.46.13:234][ 71]LogContentValidation: Display: Validating World /Game/Level2.Level2
+[2021.03.10-03.46.26:138][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube709)
+[2021.03.10-03.46.34:008][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere12)
+[2021.03.10-03.46.39:669][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.10-03.46.39:679][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.10-03.46.39:891][195]LogSavePackage: Moving '../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Saved/Level2557ED1CC4030EE21045CC0BA9943488F.tmp' to '../../../../../git/TeamArchonFPS/FPSGameStarterKit/FPSGameStarterKit/Content/Level2.umap'
+[2021.03.10-03.46.39:943][195]AssetCheck: New page: Asset Save: Level2
+[2021.03.10-03.46.39:943][195]LogContentValidation: Display: Validating World /Game/Level2.Level2
